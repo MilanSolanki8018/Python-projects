@@ -8,7 +8,6 @@
 	These four sublists should be stored inside one main list (a nested list). Finally, print each sublist from the main list one by one.
 
 """
-from typing import final
 
 odd_list = []
 even_list = []
